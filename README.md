@@ -27,6 +27,4 @@
   <a href="https://your-portfolio.vercel.app">🌐 Portfolio</a>
 </p>
 
-<!--
-💡 Tip: Replace placeholders with your actual links.
--->
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=0x-NaN&fontSize=50)
