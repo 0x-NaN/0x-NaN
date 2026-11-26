@@ -18,7 +18,7 @@
 
 ### 🔬 Research & Engineering Highlights
 
-- **AI Supply-Chain Security (IEEE CONECCT 2026):** Proposed the AMUP threat model and *Update Instability Score (UIS)* to detect covert model poisoning via parameter perturbation—achieving **>100x separation** between benign and malicious updates on CIFAR-10/STL-10 without labeled data or retraining.
+- **[AI Supply-Chain Security (IEEE CONECCT 2026)](https://ieeexplore.ieee.org/document/11700631/):** Proposed the AMUP threat model and *Update Instability Score (UIS)* to detect covert model poisoning via parameter perturbation—achieving **>100x separation** between benign and malicious updates on CIFAR-10/STL-10 without labeled data or retraining.
 - **[ml-profiler](https://github.com/0x-NaN/ml-profiler):** Local PyTorch training profiler ingesting Chrome trace JSONs and generating bottleneck diagnostics via Ollama (`qwen2.5:7b`). Identified and tracked an upstream **PyTorch 2.6 regression** where `export_chrome_trace` dropped CUDA kernel events (resolved in PyTorch 2.12).
 - **[RuralMed Vision](https://github.com/0x-NaN/ruralmedvision):** Fine-tuned `Qwen2.5-VL-7B-Instruct` with 4-bit QLoRA (improving triage severity accuracy from **13.5% → 85.0%**, Kappa `0.608`) and engineered **GGUF `Q4_K_M` quantization (4.36 GB)** achieving **49.1 tok/s** offline edge inference. *(Top 100 Nationwide — Samsung Solve for Tomorrow 2026)*
 - **[Nexus](https://github.com/0x-NaN/Nexus):** Real-time policy enforcement layer evaluating autonomous AI payment agent requests against YAML rules prior to execution, built with **FastAPI, PostgreSQL audit logs, WebSockets, and React 19**.
@@ -70,15 +70,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
 </div>
-
----
-
-### 📜 Verified Specializations & Credentials
-
-- **AWS Cloud Solutions Architect Specialization** — *Coursera (2026)*
-- **Meta Full Stack Developer Specialization** — *Coursera (2026)*
-- **Open Source Software Development, Linux and Git Specialization** — *The Linux Foundation (2026)*
-- **Introduction to Model Context Protocol (MCP)** — *Anthropic (2026)*
 
 ---
 
