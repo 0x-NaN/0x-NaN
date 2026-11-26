@@ -64,9 +64,9 @@
 </p>
 <br>
 
-### 📫 Connect
+### Connect
 <p align="center">
-  <a href="mailto:asmitchatterjee06@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/asmit-chatterjee-6b80b9296/">💼 LinkedIn</a> • 
-  <!--<a href="https://your-portfolio.vercel.app">🌐 Portfolio</a>-->
+  <a href="mailto:asmitchatterjee06@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/asmit-chatterjee-6b80b9296/">LinkedIn</a> • 
+  <a href="https://asmit-chatterjee-portfolio.netlify.app">Portfolio</a>
 </p>
